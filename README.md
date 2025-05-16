@@ -19,7 +19,7 @@ Each project will live in its own folder and include:
 Example:
 
 ```text
-/100-javascript-projects
+/javascript-projects
 ├── 01-click-counter
 │   ├── index.html
 │   ├── style.css

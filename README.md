@@ -1,0 +1,102 @@
+
+# JavaScript Projects
+
+A self-driven challenge to build **numerous JavaScript projects** over the course of a year to strengthen my understanding of JavaScript fundamentals, DOM manipulation, API integration, and more.
+
+## 🚀 Purpose
+
+This repository serves as a learning log and showcase of my progress through creating small to medium JavaScript-based projects. The goal is to improve problem-solving skills, explore new concepts, and build a strong JavaScript foundation.
+
+## 📁 Project Structure
+
+Each project will live in its own folder and include:
+
+- `index.html` – The main HTML structure  
+- `style.css` – Optional styling  
+- `script.js` – JavaScript logic  
+- `README.md` – Explanation per project  
+
+Example:
+
+```text
+/100-javascript-projects
+├── 01-click-counter
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── 02-number-guessing-game
+│   └── ...
+└── ...
+```
+
+## ✅ Project Tracker
+
+| #  | Project Name                 | Description                                           | Status       | Link |
+|----|-----------------------------|-------------------------------------------------------|--------------|------|
+| 1  | Click Counter               | Count clicks on a button and display the total       | ⏳ Pending   |      |
+| 2  | Number Guessing Game        | Guess a number between a range with hints            | ⏳ Pending   |      |
+| 3  | Background Colour Changer   | Change the page background color on button click     | ⏳ Pending   |      |
+| 4  | Character Counter           | Show live character count from input or textarea     | ⏳ Pending   |      |
+| 5  | Simple Calculator           | Perform basic arithmetic calculations                | ⏳ Pending   |      |
+| 6  | Tip Calculator              | Calculate tip per person based on bill & percentage  | ⏳ Pending   |      |
+| 7  | Digital Clock               | Real-time updating digital clock                     | ⏳ Pending   |      |
+| 8  | Stopwatch                   | Start, stop, and reset a timer                       | ⏳ Pending   |      |
+| 9  | Light/Dark Mode Toggle      | Switch themes and store preference                   | ⏳ Pending   |      |
+| 10 | Password Visibility Toggle  | Toggle input type for password fields                | ⏳ Pending   |      |
+| 11 | Scroll Progress Indicator   | Show scroll position as a progress bar               | ⏳ Pending   |      |
+| 12 | Random Quote Generator      | Display a random quote from a list or API            | ⏳ Pending   |      |
+| 13 | Review List                 | Display and navigate through a list of reviews       | ⏳ Pending   |      |
+| 14 | Background Image Switcher   | Change background image on event                     | ⏳ Pending   |      |
+| 15 | Star Rating System          | Allow user to rate something with visual stars       | ⏳ Pending   |      |
+| 16 | To-Do List                  | Add, complete, and delete tasks with localStorage    | ⏳ Pending   |      |
+| 17 | Multistep Form              | Form with multiple steps or pages                    | ⏳ Pending   |      |
+| 18 | Form Validator              | Validate required fields, email format, etc.         | ⏳ Pending   |      |
+| 19 | Notes App using LocalStorage| Add and store notes locally with persistence         | ⏳ Pending   |      |
+| 20 | Custom Progress Bar         | Custom visual progress bar controlled via input      | ⏳ Pending   |      |
+| 21 | Website Preloader           | Loading animation before content displays            | ⏳ Pending   |      |
+| 22 | Flashcard App               | Create flip cards for learning with Q&A              | ⏳ Pending   |      |
+| 23 | Quiz App                    | Multiple choice quiz with score tracking             | ⏳ Pending   |      |
+| 24 | Rock Paper Scissors Game    | Play against the computer with score tracking        | ⏳ Pending   |      |
+| 25 | Countdown Timer             | Set a target date/time and count down                | ⏳ Pending   |      |
+| 26 | Accordion Menu              | Expand and collapse sections of content              | ⏳ Pending   |      |
+| 27 | Tabs Component              | Switch visible content by clicking tab labels        | ⏳ Pending   |      |
+| 28 | Movie Watchlist             | Search and save movies to a local watchlist          | ⏳ Pending   |      |
+| 29 | Recipe Finder App           | Search for recipes via ingredients using API         | ⏳ Pending   |      |
+| 30 | Weather App                 | Display weather for a city using an API              | ⏳ Pending   |      |
+| 31 | Currency Converter          | Convert between currencies using API                 | ⏳ Pending   |      |
+| 32 | Movie Search App            | Search movies using OMDB or TMDB API                 | ⏳ Pending   |      |
+| 33 | Testimonial Slider          | Slide through customer testimonials                  | ⏳ Pending   |      |
+| 34 | Random Password Generator   | Generate strong passwords based on selected criteria | ⏳ Pending   |      |
+| 35 | Password Strength Indicator | Show password strength while typing                  | ⏳ Pending   |      |
+| 36 | Hangman Game                | Classic word-guessing game with limited tries        | ⏳ Pending   |      |
+| 37 | Expense Tracker             | Track income/expenses and calculate balance          | ⏳ Pending   |      |
+| 38 | QR Code Generator           | Generate QR codes from input text                    | ⏳ Pending   |      |
+| 39 | Barcode Generator           | Generate barcodes from numbers or text               | ⏳ Pending   |      |
+| 40 | Weather Dashboard           | Save and display multiple city forecasts             | ⏳ Pending   |      |
+| 41 | Password Manager            | Store and manage passwords (front-end only)          | ⏳ Pending   |      |
+| 42 | Sortable Drag and Drop List | Reorder items using drag-and-drop                    | ⏳ Pending   |      |
+| 43 | Data Table with Sorting     | Table with column sorting and filters                | ⏳ Pending   |      |
+| 44 | Main Colour from Image      | Extract dominant color from an image                 | ⏳ Pending   |      |
+| 45 | Spotify Playlist Visualiser | Visualize playlists from Spotify API                 | ⏳ Pending   |      |
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- *(Optional: APIs, Bootstrap, jQuery)*
+
+## 📌 Goals
+
+- Build real-world components and mini-apps  
+- Improve code structure and reusability  
+- Document learning outcomes along the way  
+
+## 🙋‍♂️ Author
+
+**Charlie**  
+GitHub: [@chvrke](https://github.com/chvrke)
+
+## 📄 License
+
+This project is open-sourced under the [MIT License](LICENSE).
